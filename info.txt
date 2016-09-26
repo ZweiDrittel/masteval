@@ -1,0 +1,3 @@
+Reihenfolge der Daten im Rohdatenformat:
+
+Datum(dd.mm.yyyy)	Zeit(hh:mm:ss)	v_mittel	v_sigma	v_min	v_max	dd	dd_sigma	Bat1	Bat2	T_mittel	T_min	T_max

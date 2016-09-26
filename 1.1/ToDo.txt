@@ -1,0 +1,10 @@
+#########################################################################
+Für Version 1.1 zu tun!
+#########################################################################
+
+-- Fehlerabfrage bei Eingabe des Zeitraums einbauen
+-- Bug, wenn zuerst falscher Dateipfad, dann richtiger eingegeben wird -> Programm bricht ab.. überprüfen
+-- Bereich der Windrichtung angeben (min/max)
+-- Prüfung einfügen, ob gesamtes 10-Minuten-Intervall vorhanden
+-- prüfen, ob output daten schon vorhande sind (HEADER-ZEILEN?)!
+-- prüfen, ob auszugebende Werte bereits in Output-Datei vorhanden sind (nicht doppelt eingeben)
